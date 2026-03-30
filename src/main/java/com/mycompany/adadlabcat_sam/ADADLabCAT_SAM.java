@@ -7,5 +7,7 @@ public class ADADLabCAT_SAM {
         System.out.println("Samriddhi Sharma");
         System.out.println("23MIC0097");
         System.out.println("Jenkins Build Successful");
+        
+        System.out.println("Second commit");
     }
 }
